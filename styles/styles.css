@@ -1,0 +1,41 @@
+body{margin: 0;}
+.header{height: 500px;
+background-color: gray;
+padding-top: 30px;
+background-image: url("../images/Fastcoin_Cheetah_Banner.jpg");
+background-repeat: no repeat;
+background-size: cover;}
+.header h1{
+color: white;}
+.header h2{
+color: white;}
+.header h4{
+color: white;}
+.container{width: 900px; margin: auto; padding-left: 50px;
+padding-right: 50px;}
+.get-it-now{padding-left: 60px;
+			padding-right: 60px;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			background-color: orange;
+			border-radius:10px;
+			font-size: 24px;
+			color: white;
+			}
+.benefits{height: 500px;
+background: orange;}
+.benefits h2{color: white;
+padding-top: 75px;
+margin: 0;
+font-size: 36px;}
+.benefits p, ul{font-size: 20px;
+color: white;}
+.centered{text-align: center;}
+.testimonials p{font-size: 50px;
+color: white;}
+.testimonials{height:300px;
+background-image: url("../images/FastcoinBanner.jpg");
+background-repeat: none;
+background-size: cover;
+}
+.quote{margin: 0;}
